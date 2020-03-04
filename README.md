@@ -1,7 +1,13 @@
 # go-webcrawler
 go-webcrawler provides a simple web crawler library for Go
 
-Usage:
+### Installation:
+
+```
+go get github.com/325gerbils/go-webcrawler
+```
+
+### Usage:
 
 ```go
 package main
